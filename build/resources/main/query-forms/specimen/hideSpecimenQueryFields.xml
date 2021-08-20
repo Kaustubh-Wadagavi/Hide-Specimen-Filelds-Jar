@@ -1,5 +1,5 @@
 <hiddenFields>
-  <field udn="type"/>
-  <field udn="label"/>
-  <field udn="class"/>
+  <field udn="updater"/>
+  <field udn="creator"/>
+  <field udn="creationEvent.createdBy"/>
 </hiddenFields>
